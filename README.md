@@ -1,1 +1,1 @@
-# Digit-lis-eszk-z-k-haszn-lata
+Digitális eszközök használata
