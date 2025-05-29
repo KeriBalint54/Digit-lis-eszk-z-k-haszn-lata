@@ -52,5 +52,5 @@ Nyisd meg a index.html fájlt bármelyik modern böngészőben.
 Ez a projekt nem tartalmaz háttérfunkciókat vagy szerveroldali kódot – kizárólag bemutató, design és vizuális célokra készült.
 
 🧑‍💻 Szerző
-Készült: [Írd ide a saját neved]
+Készült: [Kéri Bálint]
 Dátum: 2025
